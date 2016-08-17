@@ -1,0 +1,62 @@
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\bin\Debug\MetroTest.exe
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\bin\Debug\MetroTest.pdb
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\bin\Debug\MetroFramework.dll
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\bin\Debug\MetroFramework.Fonts.dll
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Properties.Resources.resources
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.csproj.GenerateResource.Cache
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.exe
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.pdb
+c:\users\alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\bin\Debug\MetroTest.exe.config
+C:\Users\Alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Main.resources
+C:\Users\Alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.SplashScreen.resources
+C:\Users\Alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.AddCategory.resources
+C:\Users\Alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New.resources
+C:\Users\Alfredo\documents\visual studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New2.resources
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify.resources
+C:\Users\Alfredo\Documents\Visual Studio 2010\Projects\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify2.resources
+J:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.exe.config
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.exe
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.pdb
+J:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.exe
+J:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.pdb
+J:\Programacion\MetroTest\MetroTest\bin\Debug\MetroFramework.dll
+J:\Programacion\MetroTest\MetroTest\bin\Debug\MetroFramework.Fonts.dll
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.AddCategory.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Main.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify2.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New2.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Properties.Resources.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.SplashScreen.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Delete.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Delete2.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Search.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Search2.resources
+J:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Configuration.resources
+G:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.exe.config
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.exe
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.pdb
+G:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.exe
+G:\Programacion\MetroTest\MetroTest\bin\Debug\MetroTest.pdb
+G:\Programacion\MetroTest\MetroTest\bin\Debug\MetroFramework.dll
+G:\Programacion\MetroTest\MetroTest\bin\Debug\MetroFramework.Fonts.dll
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.csprojResolveAssemblyReference.cache
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.AddCategory.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Configuration.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Delete.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Delete2.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Main.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Modify2.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.New2.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Properties.Resources.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Search.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.Search2.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.SplashScreen.resources
+G:\Programacion\MetroTest\MetroTest\obj\x86\Debug\MetroTest.csproj.GenerateResource.Cache

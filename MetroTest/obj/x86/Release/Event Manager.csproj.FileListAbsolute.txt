@@ -1,0 +1,81 @@
+G:\Programacion\Manager\MetroTest\bin\Release\Event Manager.exe.config
+G:\Programacion\Manager\MetroTest\bin\Release\Event Manager.exe
+G:\Programacion\Manager\MetroTest\bin\Release\Event Manager.pdb
+G:\Programacion\Manager\MetroTest\bin\Release\MetroFramework.dll
+G:\Programacion\Manager\MetroTest\bin\Release\MetroFramework.Fonts.dll
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.AddCategory.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Browser.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Configuration.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Delete.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Delete2.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Details.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Details2.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Main.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Modify.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Modify2.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.New.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.New2.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Properties.Resources.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Search.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.Search2.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\MetroTest.SplashScreen.resources
+G:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.csproj.GenerateResource.Cache
+G:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.exe
+G:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.pdb
+G:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.csprojResolveAssemblyReference.cache
+J:\Programacion\Manager\MetroTest\bin\Release\Event Manager.exe.config
+J:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.exe
+J:\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.pdb
+C:\Users\DELL\Documents\USB\Programacion\Manager\MetroTest\bin\Release\Event Manager.exe.config
+C:\Users\DELL\Documents\USB\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.exe
+C:\Users\DELL\Documents\USB\Programacion\Manager\MetroTest\obj\x86\Release\Event Manager.pdb
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\bin\Release\Event Manager.exe.config
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\Event Manager.exe
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\Event Manager.pdb
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\bin\Release\Event Manager.exe
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\bin\Release\Event Manager.pdb
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\bin\Release\MetroFramework.dll
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\bin\Release\MetroFramework.Fonts.dll
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\Event Manager.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.AddCategory.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Browser.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Configuration.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Delete.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Delete2.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Details.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Details2.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Main.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Modify.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Modify2.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.New.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.New2.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Properties.Resources.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Search.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.Search2.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\MetroTest.SplashScreen.resources
+C:\Users\8470p\Documents\Shared\Manager\MetroTest\obj\x86\Release\Event Manager.csproj.GenerateResource.Cache
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\bin\Release\Event Manager.exe.config
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\Event Manager.exe
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\Event Manager.pdb
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\Event Manager.csprojResolveAssemblyReference.cache
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.AddCategory.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Browser.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Configuration.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Delete.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Delete2.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Details.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Details2.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Main.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Modify.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Modify2.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.New.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.New2.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Properties.Resources.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Search.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.Search2.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\MetroTest.SplashScreen.resources
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\obj\x86\Release\Event Manager.csproj.GenerateResource.Cache
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\bin\Release\Event Manager.exe
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\bin\Release\Event Manager.pdb
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\bin\Release\MetroFramework.dll
+C:\Users\8470p\Documents\Programming\Manager\MetroTest\bin\Release\MetroFramework.Fonts.dll
